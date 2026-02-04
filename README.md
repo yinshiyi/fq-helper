@@ -1,3 +1,6 @@
+# Purpose 
+Be a part of everyday helper. eg. replace repeatly typing (wc -l / 4)
+
 # Installation
 
 ## Prerequisites
